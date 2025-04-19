@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">CS Workspace</string>
+
+    <!-- Activity Labels (used in AndroidManifest.xml) -->
+    <string name="admin_activity_label">Admin Activity</string>
+    <string name="delete_user_label">Delete User Activity</string>
+    <string name="view_users_label">View Users Activity</string>
+    <string name="change_password_label">Change Password Activity</string>
+    <string name="upload_activity_label">Upload Activity</string>
+    <string name="home_activity_label">Home Activity</string>
+
+    <!-- Login Screen -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="contact_admin">Contact admin for support</string>
+
+    <!-- Admin Dashboard -->
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="upload_excel">Upload Excel</string>
+    <string name="view_users">View Users</string>
+    <string name="delete_user">Delete User</string>
+    <string name="password_reset">Password Reset</string>
+
+    <!-- Change Password Screen -->
+    <string name="password_reset_title">Password Reset</string>
+    <string name="enter_user_email">Enter User Email</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="change_password">Change Password</string>
+
+    <!-- Delete User Screen -->
+    <string name="delete_user_title">Delete User</string>
+    <string name="delete_user_hint">Enter Email of User to Delete</string>
+    <string name="delete_user_button">Delete User</string>
+
+    <!-- Upload Screen -->
+    <string name="choose_file">Choose File</string>
+    <string name="no_file_chosen">No file chosen</string>
+    <string name="upload_file">Upload File</string>
+    <string name="upload_subtitle">Upload your user list and manage accounts easily!</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_message">Welcome to MyAdmin App</string>
+    <string name="home_description">Manage your accounts efficiently. Use the navigation menu to access different features.</string>
+    <string name="feature_1">Feature 1</string>
+    <string name="feature_2">Feature 2</string>
+
+    <string name="email_subject">Email Subject</string>
+    <string name="email_sender">Sender Email</string>
+
+
+</resources>

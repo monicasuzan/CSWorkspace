@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryVariant">#3700B3</color>
+    <color name="secondaryColor">#03DAC6</color>
+
+    <!-- Backgrounds and Surfaces -->
+    <color name="backgroundColor">#F8F9FA</color>
+    <color name="surfaceColor">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#000000</color>
+    <color name="textSecondary">#4A4A4A</color>
+    <color name="textHint">#555555</color>
+    <color name="black">#000000</color>
+
+    <color name="red">#FF0000</color>
+    <color name="blue">#0000FF</color>
+
+    <!-- Other -->
+    <color name="errorColor">#B00020</color>
+    <color name="greyLight">#CCCCCC</color>
+
+        <!-- Primary Colors -->
+        <color name="primary">#1976D2</color> <!-- Deep Blue -->
+        <color name="primary_dark">#1565C0</color> <!-- Darker Blue -->
+        <color name="accent">#FF9800</color> <!-- Orange Accent -->
+
+        <!-- Background Colors -->
+        <color name="background">#F5F5F5</color> <!-- Light Gray -->
+        <color name="white">#FFFFFF</color>
+
+        <!-- Text Colors -->
+        <color name="text_primary">#212121</color> <!-- Dark Gray -->
+        <color name="text_secondary">#757575</color> <!-- Medium Gray -->
+
+        <!-- Button Colors -->
+        <color name="button_bg">#388E3C</color> <!-- Green Button -->
+        <color name="button_text">#FFFFFF</color> <!-- White Text -->
+
+        <!-- Error & Warnings -->
+        <color name="error">#D32F2F</color> <!-- Red Error -->
+        <color name="warning">#FFA000</color> <!-- Amber Warning -->
+        <color name="purple_700">#512DA8</color>
+
+        <!-- Divider & Border Colors -->
+        <color name="divider">#BDBDBD</color> <!-- Light Gray Divider -->
+    </resources>
+
